@@ -4,7 +4,7 @@ The GitHub organization for the UK Fire Danger Rating System.
 
 **For full details, please visit the [official website](https://ukfdrs.com)**
 
-This project is funded by the [UK Research Institute](https://www.ukri.org)
+This project is funded by the Natural Environment Research Council (NERC) (https://www.ukri.org/councils/nerc/), grant reference [NE/T003553/1](https://gtr.ukri.org/projects?ref=NE%2FT003553%2F1).
 
 ## [About](https://www.ukfdrs.com)
 
@@ -50,6 +50,6 @@ Where possible, sample data may be included to serve for demonstration purposes
 
 Full contact information may be found on the [website](https://ukfdrs/contact)
 
-For questions about the project, please email Dr. Gareth Clay (gareth.clay@manchester.ac.uk)
+For questions about the project, please email Prof Gareth Clay (gareth.clay@manchester.ac.uk)
 
 This organization was created and maintained by [Jack Jorgensen](https://github.com/JorgiEagle) 
